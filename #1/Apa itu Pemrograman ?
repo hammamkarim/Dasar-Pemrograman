@@ -1,0 +1,24 @@
+Programming adalah sebuah proses untuk membuat program dengan menuliskan kumpulan kode/perintah untuk komputer. Semua aplikasi yang berjalan baik itu di smartphone ataupun di PC, semuanya dijalankan menggunakan baris baris program, dan setiap baris kode tersebut memiliki bahasa masing masing yang disebut bahasa pemrograman.
+
+> Bahasa Pemrograman
+Bahasa pemrograman adalah sekumpulan instruksi yang diberikan kepadda komputer untuk dapat menjalankan tugas-tugas tertentu dalam menyelesaikan suatu permasalahan. Ada banyak sekali jenis bahasa Pemrograman yang bisa digunakan. Bahasa pemrograman dapat dikategotikan berdasar seberapa mudah bahasa tersebut dapat dipahami oleh manusia, adapun jenisnya antara lain :
+- Bahasa Mesin
+Bahasa mensin atau kode mesin, merupakan seperangkat instruksi serta data yang dapat dieksekusi secara langsug oleh komputer. Bahasa asli mesin terdiri dari bahasa biner (0 dan 1)
+- Bahasa Assembly
+Merupakan penyederhanaan dari bahasa mesin, karena bahasa mesin tidak dapat diuraikan oleh manusia dan hanya dapat dipahami oleh komputer. Kedudukan bahasa assembly berada di antara bahasa mesin dan bahasa level tinggi. Bahasa Assembly atau bisa disebut bahasa pemrograman tingkat rendah digunakan untuk menerjemahkan bahasa tingkat tinggi ke dalam bahasa mesin.
+- Bahasa Tingkat Tinggi
+Bahasa pemrograman tingkat tinggi ataau disebut high level programming language adalah bahasa pemrograman yang sudah disederhanakan dan mudah dipahami oleh manusia. adapun contoh bahasa tingka tinggi antara lain : JavaScript, HTML/CSS, Phyton, SQL, JAVA, dll. Tiap bahasa pemrograman memiliki fungsi yang berbeda. Adapun fungsi setiap bahasa pemrograman secara garis besar sebagai berikut :
+1. Phyton 
+Digunakan untuk pengembangan WEB, aplikasi bisnis, AI, machine learning.
+2. JAVA
+Mengembangkan aplikasi WEB/Android.
+3. JavaScript
+Membuat aplikasi WEB, mobile, atau game.
+4. PHP
+Pengembangan website ata CMS(Content Management System).
+5. C++
+Pengembangan game.
+6. Bahasa R
+Mengolah data statistik
+
+Untuk menjadi seorang programmer handarl tidak perlu menguasai semua bahasa, karena tiap bahasa memiliki fungsi yang berbeda, hanya perlu mempelajari beberapa saja yang sesuai kebutuhan.
