@@ -1,2 +1,2 @@
 # Dasar-Pemrograman
-Tes
+Belajar dasar pemrograman
