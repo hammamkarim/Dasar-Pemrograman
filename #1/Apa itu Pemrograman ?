@@ -1,24 +1,37 @@
 Programming adalah sebuah proses untuk membuat program dengan menuliskan kumpulan kode/perintah untuk komputer. Semua aplikasi yang berjalan baik itu di smartphone ataupun di PC, semuanya dijalankan menggunakan baris baris program, dan setiap baris kode tersebut memiliki bahasa masing masing yang disebut bahasa pemrograman.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 > Bahasa Pemrograman
 Bahasa pemrograman adalah sekumpulan instruksi yang diberikan kepadda komputer untuk dapat menjalankan tugas-tugas tertentu dalam menyelesaikan suatu permasalahan. Ada banyak sekali jenis bahasa Pemrograman yang bisa digunakan. Bahasa pemrograman dapat dikategotikan berdasar seberapa mudah bahasa tersebut dapat dipahami oleh manusia, adapun jenisnya antara lain :
+
 - Bahasa Mesin
 Bahasa mensin atau kode mesin, merupakan seperangkat instruksi serta data yang dapat dieksekusi secara langsug oleh komputer. Bahasa asli mesin terdiri dari bahasa biner (0 dan 1)
+
+
 - Bahasa Assembly
 Merupakan penyederhanaan dari bahasa mesin, karena bahasa mesin tidak dapat diuraikan oleh manusia dan hanya dapat dipahami oleh komputer. Kedudukan bahasa assembly berada di antara bahasa mesin dan bahasa level tinggi. Bahasa Assembly atau bisa disebut bahasa pemrograman tingkat rendah digunakan untuk menerjemahkan bahasa tingkat tinggi ke dalam bahasa mesin.
+
+
 - Bahasa Tingkat Tinggi
 Bahasa pemrograman tingkat tinggi ataau disebut high level programming language adalah bahasa pemrograman yang sudah disederhanakan dan mudah dipahami oleh manusia. adapun contoh bahasa tingka tinggi antara lain : JavaScript, HTML/CSS, Phyton, SQL, JAVA, dll. Tiap bahasa pemrograman memiliki fungsi yang berbeda. Adapun fungsi setiap bahasa pemrograman secara garis besar sebagai berikut :
-1. Phyton 
-Digunakan untuk pengembangan WEB, aplikasi bisnis, AI, machine learning.
-2. JAVA
-Mengembangkan aplikasi WEB/Android.
-3. JavaScript
-Membuat aplikasi WEB, mobile, atau game.
-4. PHP
-Pengembangan website ata CMS(Content Management System).
-5. C++
-Pengembangan game.
-6. Bahasa R
-Mengolah data statistik
 
-Untuk menjadi seorang programmer handarl tidak perlu menguasai semua bahasa, karena tiap bahasa memiliki fungsi yang berbeda, hanya perlu mempelajari beberapa saja yang sesuai kebutuhan.
+1. Phyton 
+Digunakan untuk pengembangan WEB, aplikasi bisnis, AI, machine learning. Python banyak diminati karena efisien dan mudah dipelajari serta dapat dijalankan di berbagai platform. Phyton membuat developer lebih produktif karena mereka dapat menulis program Phyton menggunakan baris kode yang lebih sedikit dibandingkan dengan bahasa lainnya.
+
+2. JAVA
+Digunakan unutk mengembangkan aplikasi WEB/Android. Java merupakan bahasa multiplatform yang berorientasi pada objek dan berpusat pada jaringan yang dapat digunakan sebagai platform di dalamnya. Java sering disebut sebagai WORA – Write Once and Run Anywhere, yang membuatnya sempurna untuk aplikasi berbasis cloud yang terdesentralisasi. Penyedia cloud memilih bahasa Java untuk menjalankan program di berbagai platform yang mendasari.
+
+3. JavaScript
+Digunaka untuk membuat aplikasi WEB, mobile, atau game. JavaScript adalah bahasa pemrograman yang digunakan developer untuk membuat halaman web yang interaktif, dari menyegarkan umpan media sosial hingga menampilkan animasi dan peta interaktif, fungsi JavaScript dapat meningkatkan pengalaman pengguna situs web. Sebagai bahasa skrip sisi klien, JavaScript adalah salah satu teknologi inti dari World Wide Web. Misalnya, saat menjelajah internet, ketika melihat carousel gambar, menu tarik-turun klik untuk menampilkan, atau warna elemen yang berubah secara dinamis di halaman web, hal tersebut adalah efek JavaScript.
+
+4. PHP
+Digunakan untuk pengembangan website atau CMS(Content Management System). Bahasa pemrograman ini mampu untuk membuat website menjadi dinamis. PHP  (Hypertext Preprocessor) adalah sebuah bahasa pemrograman server side scripting yang bersifat open source. PHP juga terbukti bisa meningkatkan kecepatan loading dibanding bahasa lain. Misalnya, lebih cepat tiga kali daripada Phyton pada beberapa kasus.
+
+5. C++
+Bahasa pemrograman C++ adalah bahasa yang bisa digunakan untuk membuat berbagai aplikasi. Misalnya, aplikasi pengolah gambar, software gadget, game, hingga sistem operasi baru. Bahasa ini dikembangkan dari bahasa pemrograman C.
+
+6. Bahasa R
+Digunakan untuk mengolah data statistik, biasanya dipelajari jika ingin terjun ke dunia data science. Bahasa R menawarkan kemampuan analisis data yang canggih dan bisa dimanfaatkan untuk visualisasi data. Akan tetapi data di dalam bahasa R disimpan di dalam memori fisik, sehingga lebih rentan kehabisan memori.
+
+
+Untuk menjadi seorang programer handarl tidak perlu menguasai semua bahasa, karena tiap bahasa memiliki fungsi yang berbeda, hanya perlu mempelajari beberapa saja yang sesuai kebutuhan.
