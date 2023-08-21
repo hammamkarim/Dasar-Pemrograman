@@ -1,1 +1,14 @@
 # Apa saja yang dibutuhkan oleh seorang PROGRAMMER ?
+Untuk menjadi seorang programmer profesional diperlukan sebuah tools untuk menunjang kebutuhan yang ada agar dapat menyelesaikan tugas dengan efektif dan efisien. Semakin lengkap tools yang dimilik akan semakin meningkatkan performa seorang programmer.
+
+
+Tools yang Diperlukan
+
+1. Code Editor
+Code editor adalah suatu program teks yang berhubunga dengan kegiatan programming. Perangkat lunak ini dapat memungkinkan seorang programmer untuk menulis, mengedit dan mengelola kode komputer. Dengan menggunakan kode editor, akan memudahkan seorang programmer dalam menyelesaikan tugasnya, karena di dalam kode editor tersebut terdapat fitur yang akan membantu dalam menulis kode. Contoh kode editor : Visuak Studio Code, Notepad++, Vim
+
+2. IDE (integrated Development Environtment)
+IDE adalah sebuah tools yang mencakup berbagai fitur untuk membantu pengembangan perangkat lunak dalam menulis, mengedit, dan memelihara code pada komputer. IDE sama  seperti kode editor tapi ada fitur tambahan di dalamnya. Perbedaan antara IDE dengan kode editor adalah tingkat integrasi dan fitur yang disediakan, kode editor cenderung lebih ringan dan sederhana karena terkadang ada yang tidak memiliki alat tereintregrasi seperti kompiler, debugger, dan pengelolaan project.
+
+Contoh tools yang ada di IDE antara lain : Kompiler yang berfungsi untuk menerjemahkan code yang telah dibuat ke dalam bahasa yang dimengeerti oleh komputer, Debugger untuk memastikan kode bebas dari kesalahan, GUI (Grapichal User Interface) untuk mempermudah dalah pembuatan aplikasi secara visual. Adapun contoh IDE : Visual Studio, Intellij Idea,PHP STORE
+
