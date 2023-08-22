@@ -1,0 +1,13 @@
+Apa Itu CODING dan Bagaimana Cara Mempelajarinya ?
+
+- Apa itu coding ?
+Coding adalah sebuah kegiatan untuk menulisa sebuah baris kode dalah bahasa pemrograman tertentu yang bertujuan untuk membuat suatu instruksi yang bisa dimengerti oleh komputer. Berbeda dengan cara berkomunikasi yang dilakukan oleh manusia, pada dasarnya komputer tidak mengenal sebuah istilah kata/bahasa, komputer hanya memahami data berupa sinyal on dan of yang dilambangka dengan kode biner (1 dan 0) dan pergantiannya dilakukan oleh transistor. 
+
+Kode biner dikelompokkan dengan nama BYTES. BYTES adalah kelompok angka yang berisi 8 digit yang mewakili 8 transistor, contoh : 11101011, 11001101. Transistor adalah komponen semikonduktor yang digunakan untuk mengendalikan arus listrik dalam suatu rangkaian elektronik. Dalam konteks pemrograman kode biner, transistor digunakan dalam sirkuit elektronik di dalam komputer untuk mewakili data dalam bentuk sinyal listrik yang berubah-ubah yang kemudian dinterpretasikan sebagai urutan 1 dan 0 untuk mepresentasikan informasi dalam format biner
+
+Dalam proses komputasi modern terdapat jutaan byte/lebih yang akan diolah secara bersamaan, tugas ini tidak mungkin dikerjakan oleh manusia secara manual karena akan memakan waktu yang lama dan rentan terjadi eror. Oleh karena itu digunakanlah bahasa pemrograman yang dapat membuat pengolahan byte menjadi lebih sederhana yang caranya adalah dengan menggunakan kumpulan syntax/susnan kode.
+
+Saat kita menuli baris kode menggunakan syntax, syntax tersebut akan melalui sebuah proses penerjemahan (proses kompilasi) yang bertujuan agar barisan syntax tersebut dapat lebih mudah dipahami oleh komputer
+
+
+
