@@ -1,5 +1,5 @@
 #Tips Memilih Bahasa Pemrograman untuk Pemula
-Memilih bahasa pemrograman yang tepat untuk dipelajari adalah langkah awal yang penting bagi seorang programmer pemula. Pilihan bahasa pemrograman akan mempengaruhi jenis profesi atau project yang akan dikerjakan. Akan tetapi ketika baru memulai untuk terjun ke dunia programming tidak sedikit orang yang bingung ketika ingin memilih bahasa pemrograman apa yang akan mereka pelajari. Hal ini disebabkan oleh beberapa faktor kompleks yang menjadi pertimbangan, salah satu contohnya adalah ketersediaan informasi yang sangat banya tentang berbagai jenis bahasa pemrograman, masing masing memiliki keunggulannya sendiri, informasi yang sangat banyak inilah yang terkada membuat pemula merasa kewalahan dan bingung dalam memilih bahasa yang ingin dipelajari.
+Memilih bahasa pemrograman yang tepat untuk dipelajari adalah langkah awal yang penting bagi seorang programmer pemula. Pilihan bahasa pemrograman akan mempengaruhi jenis profesi atau project yang akan dikerjakan. Akan tetapi ketika baru memulai untuk terjun ke dunia programming tidak sedikit orang yang bingung ketika ingin memilih bahasa pemrograman apa yang akan mereka pelajari. Hal ini disebabkan oleh beberapa faktor kompleks yang menjadi pertimbangan, salah satu contohnya adalah ketersediaan informasi yang sangat banyak tentang berbagai jenis bahasa pemrograman, masing masing memiliki keunggulannya sendiri, informasi yang sangat banyak inilah yang terkadang membuat pemula merasa kewalahan dan bingung dalam memilih bahasa yang ingin dipelajari.
 
 
 > Cara Memilih Bahasa Pemrograman yang Sesuai
@@ -9,10 +9,10 @@ Pertimbangkan tujuan dan jenis project seperti apa yang ingin dikerjakan menjadi
 
 2. Memilih Bahasa yang Paling Dicari dan Diminati
 ##IMG##
-Dengan memilih bahasa pemrograman yang populer akan memudahkan untuk mendapatkan kemudaha dalam menemukan informasi untuk belajar bahasa tersebut seperti tutorial, forum, komunitas, dll, yang akan membantu dalam proses pembelajaran. Kemudahan dalam mendapatkan perkerjaan juga menjadi salah satu manfaat apabila mempelajari bahasa yang paling diminati dan paling dicari.
+Dengan memilih bahasa pemrograman yang populer akan memudahkan untuk mendapatkan kemudahan dalam menemukan informasi untuk belajar bahasa tersebut seperti tutorial, forum, komunitas, dll, yang akan membantu dalam proses pembelajaran. Kemudahan dalam mendapatkan perkerjaan juga menjadi salah satu manfaat apabila mempelajari bahasa yang paling diminati dan paling dicari.
 
 3. Peluang Karir
-Biasanya sebuah instansi/perusahaan menggunakan sudah memiliki bahasa pemrograman yang biasanya mereka gunakan untuk mengembagkan suatu project dalam perusahaan tersebut. Hal ini juga bisa menjadi pertimbangan apa bila kita sudah memiliki perusahaan yang kita ingin masuki maka kita harus menyesuaikan dengan kebutuhan perusahaan tersebut.
+Biasanya sebuah instansi/perusahaan sudah memiliki bahasa pemrograman yang biasanya mereka gunakan untuk mengembagkan suatu project dalam perusahaan tersebut. Hal ini juga bisa menjadi pertimbangan apabila kita sudah memiliki perusahaan yang kita ingin masuki maka kita harus menyesuaikan dengan kebutuhan perusahaan tersebut.
 
 4. Skalabitas dan Kinerja
 Mempertimbanakan apakah bahasa pemrograman tersebut adalah yang paling cocok untuk project yang berskala besar dan bisa dikembangkan dalam jang panjang terhadap project yang dikerjakan
@@ -20,10 +20,10 @@ Mempertimbanakan apakah bahasa pemrograman tersebut adalah yang paling cocok unt
 > Jenis Bahasa Pemrograman
 
 1. Low Level Language
-Bahasa yang mudah dimengerti oleh komputer dan kinerjanya cenderung lebih baik, seperti kecepatan dalam memproses suatu code instruksi lebih cepat sehingga loading tidak terlalu lama, dan fleksibilitas yang baik. Akan tetapi bahasa ini sulit dipahami oleh manusia dan kode mungkin tidak berjalan di mesin yang berbeda. Adapun contoh bahasanya : Bahasa Assemblyy, Bahasa Mesin.
+Bahasa yang mudah dimengerti oleh komputer dan kinerjanya cenderung lebih baik, seperti kecepatan dalam memproses suatu code instruksi lebih cepat sehingga loading tidak terlalu lama, dan fleksibilitas yang baik. Akan tetapi bahasa ini sulit dipahami oleh manusia dan kode mungkin tidak berjalan di mesin yang berbeda. Adapun contoh bahasanya : Bahasa Assembly.
 
 2. High Level Language
 Bahasa yang mudah dimengerti oleh manusia. Akan tetapi bahasa ini sedikit lambat untuk komputer memahaminya yang terkadang membutuhkan waktu yang sedikit lebih lama untuk komputer memahami instruksi kode yang dibuat sehingga loading cenderung lebih lama dibandingkan low level language. Akan tetapi kode yang sama yang dibuat dengan bahasa ini dapat berjalan di banyak mesin. contoh dari bahasa ini adalah : PHYTON, JavaScript, dll.
 
 
-Untuk menjadi seorang programmer handal tidak perlu untuk menguasai semua jenis bahasa yang ada, yang harus dilakukan adalah cukup fokus terhadap bahasa pemrograman tertentu yang sudah dipilih dan mempelajarinya sampai mahir. Orang yang sudah mahir menguasai bahasa tertentu biasanya cenderung lebih mudah untuk menguasai bahasa yang lain.
+Untuk menjadi seorang programmer handal, tidak perlu untuk menguasai semua jenis bahasa yang ada, yang harus dilakukan adalah cukup dengan fokus terhadap bahasa pemrograman tertentu yang sudah dipilih dan mempelajarinya sampai mahir. Orang yang sudah mahir menguasai bahasa tertentu biasanya cenderung lebih mudah untuk menguasai bahasa yang lain.
