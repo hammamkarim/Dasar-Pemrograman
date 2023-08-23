@@ -7,7 +7,40 @@ Kode biner dikelompokkan dengan nama BYTES. BYTES adalah kelompok angka yang ber
 
 Dalam proses komputasi modern terdapat jutaan byte/lebih yang akan diolah secara bersamaan, tugas ini tidak mungkin dikerjakan oleh manusia secara manual karena akan memakan waktu yang lama dan rentan terjadi eror. Oleh karena itu digunakanlah bahasa pemrograman yang dapat membuat pengolahan byte menjadi lebih sederhana yang caranya adalah dengan menggunakan kumpulan syntax/susnan kode.
 
-Saat kita menuli baris kode menggunakan syntax, syntax tersebut akan melalui sebuah proses penerjemahan (proses kompilasi) yang bertujuan agar barisan syntax tersebut dapat lebih mudah dipahami oleh komputer
+Saat kita menuli baris kode menggunakan syntax, syntax tersebut akan melalui sebuah proses penerjemahan (proses kompilasi) yang bertujuan agar barisan syntax tersebut dapat lebih mudah dipahami oleh komputer.
 
+- Bahasa Pemrograman Berdasar Proses Kompilasinya :
+
+1. Compiled Language
+Bahasa pemrograman yang harus diterjemahkan terlebih dahulu oleh kompiler agar bahasa tersebut dapat lebih mudah dipahami oleh komputer. Contoh bahasa : C++, C, Go.
+
+2. Interpreted Language
+Bahasa pemrograman yang bisa langsung dieksekusi tanpa penerjemahan/proses kompilasi. contoh bahasa : JavaScript, PHP, PHYTON.
+
+3. Just in Time (JIT) Language
+Bahasa pemrograman yang diterjemahkan oleh kompiler disaat yang bersamaan dengan program tersebut dijalankan. Contoh bahasa : JavaScript, C#, JAVA
+
+- Aturan Syntax dan Semantik
+
+> Syntax
+Adalah serangkaian aturan yang mendefinisikan kombinasi penulisan karakter yang benar dalam sebuah bahasa pemrograman, syntax yang salah akan menyebabkan eror. Tiap bahasa pemrograman bisa jadi memiliki penulisan yang berbeda untuk menghasilkan sesuatu yang sama.
+
+> Semantik
+Adalah interpretasi/makna/hasil dari rangkaian kode yang ditulis. Program yang telah dibuat bisa saja benar secara syntax (tidak eror) tetapi salah dalam semantik (hasil kode tidak sesuai dengan apa yang diinginkan/bug).
+
+- Statement dan Expression
+
+> Statement
+Adalah unit syntax untuk menyatakan aksi/tugas yang harus dilakukan. Contoh seperti gambar berikut.
+#IMG# (GAMBAR AKAN DISEDIAKAN DI MENU WIKI)
+
+> Expression
+Entitas syntax untuk menghasilkan sebiah nilai (konstanta, fungsi, variabel, operator). Contoh seperti gambar berikut :
+#IMG# (GAMABAR AKAN DISEDIAKAN DI MENU WIKI)
+
+- CONTOH KASUS
+
+#IMG# (GAMBAR AKAN DISEDIAKAN DI MENU WIKI)
+Contoh kasus tersebut merupakan sebuhah statement sekaligus expression, karena di dalam kode tersebut secara keseluruhan memang statement, akan tetapi didalamnya juga terdapat sebuah expression. Sebuah statement bisa saja terdiri dari sebuah expression. Pada contoh kasus tersebut dikatakan stament karena bertugas untuk membuat variabel  X, sedangkan dikatakan expression karena menghasilkan sebuah nilai.
 
 
