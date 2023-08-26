@@ -7,7 +7,7 @@ Kode biner dikelompokkan dengan nama BYTES. BYTES adalah kelompok angka yang ber
 
 Dalam proses komputasi modern terdapat jutaan byte/lebih yang akan diolah secara bersamaan, tugas ini tidak mungkin dikerjakan oleh manusia secara manual karena akan memakan waktu yang lama dan rentan terjadi eror. Oleh karena itu digunakanlah bahasa pemrograman yang dapat membuat pengolahan byte menjadi lebih sederhana yang caranya adalah dengan menggunakan kumpulan syntax/susnan kode.
 
-Saat kita menuli baris kode menggunakan syntax, syntax tersebut akan melalui sebuah proses penerjemahan (proses kompilasi) yang bertujuan agar barisan syntax tersebut dapat lebih mudah dipahami oleh komputer.
+Saat kita menulis baris kode menggunakan syntax, syntax tersebut akan melalui sebuah proses penerjemahan (proses kompilasi) yang bertujuan agar barisan syntax tersebut dapat lebih mudah dipahami oleh komputer.
 
 - Bahasa Pemrograman Berdasar Proses Kompilasinya :
 
