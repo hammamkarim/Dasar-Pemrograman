@@ -35,12 +35,12 @@ Adalah unit syntax untuk menyatakan aksi/tugas yang harus dilakukan. Contoh sepe
 #IMG# (GAMBAR AKAN DISEDIAKAN DI MENU WIKI)
 
 > Expression
-Entitas syntax untuk menghasilkan sebiah nilai (konstanta, fungsi, variabel, operator). Contoh seperti gambar berikut :
+Entitas syntax untuk menghasilkan sebuah nilai (konstanta, fungsi, variabel, operator). Contoh seperti gambar berikut :
 #IMG# (GAMABAR AKAN DISEDIAKAN DI MENU WIKI)
 
 - CONTOH KASUS
 
 #IMG# (GAMBAR AKAN DISEDIAKAN DI MENU WIKI)
-Contoh kasus tersebut merupakan sebuhah statement sekaligus expression, karena di dalam kode tersebut secara keseluruhan memang statement, akan tetapi didalamnya juga terdapat sebuah expression. Sebuah statement bisa saja terdiri dari sebuah expression. Pada contoh kasus tersebut dikatakan stament karena bertugas untuk membuat variabel  X, sedangkan dikatakan expression karena menghasilkan sebuah nilai.
+Contoh kasus tersebut merupakan sebuah statement sekaligus expression, karena di dalam kode tersebut secara keseluruhan memang statement, akan tetapi didalamnya juga terdapat sebuah expression. Sebuah statement bisa saja terdiri dari sebuah expression. Pada contoh kasus tersebut dikatakan statement karena bertugas untuk membuat variabel  X, sedangkan dikatakan expression karena menghasilkan sebuah nilai.
 
 
