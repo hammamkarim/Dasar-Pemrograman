@@ -1,15 +1,15 @@
 # VARIABEL dan TIPE DATA dalam pemrograman
 
 ## Variabel
-Variabel adalah simbol yang digunakan untuk menyimpan suatu nilai/data, sehingga nilai tersebut dapat diakses, dimanipulai, dan digunakan dalam program.
+Variabel adalah simbol yang digunakan untuk menyimpan suatu nilai/data, sehingga nilai tersebut dapat diakses, dimanipulasi, dan digunakan dalam program.
 
 ### Bahasa C
 dalam bahasa c syntax penulisan variabelnya adalah : jenisTipeData namaVariabel
 
-int berat // variabel bernama berat dengan tipe data integer
-int tinggi = 178 // variabel bernama tinggi dengan tipe data integer bernilai 178
+int berat; // variabel bernama berat dengan tipe data integer
+int tinggi = 178; // variabel bernama tinggi dengan tipe data integer bernilai 178
 
-berat = 75 // assigment/pengisian sebuah variabel
+berat = 75; // assigment/pengisian sebuah variabel
 
 printf("berat badan saya adalah %i kg dan tinggi %i cm", berat, tinggi); // mencetak ke layar
 
@@ -29,7 +29,7 @@ $alamat
 $nama = "Agus";
 %umur = 20;
 
-echo $nama; // mencatak nilai yang adal di dalam variabel nama
+echo $nama; // mencatak nilai yang ada di dalam variabel nama
 
 $x = false; // variabel x bernilai boolean
 // pada bahasa PHP tidak perlu didefinisikan tipe datanya
