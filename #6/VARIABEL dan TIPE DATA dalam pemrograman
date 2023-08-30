@@ -1,1 +1,60 @@
 # VARIABEL dan TIPE DATA dalam pemrograman
+
+## Variabel
+Variabel adalah simbol yang digunakan untuk menyimpan suatu nilai/data, sehingga nilai tersebut dapat diakses, dimanipulai, dan digunakan dalam program.
+
+### Bahasa C
+dalam bahasa c syntax penulisan variabelnya adalah : jenisTipeData namaVariabel
+
+int berat // variabel bernama berat dengan tipe data integer
+int tinggi = 178 // variabel bernama tinggi dengan tipe data integer bernilai 178
+
+berat = 75 // assigment/pengisian sebuah variabel
+
+printf("berat badan saya adalah %i kg dan tinggi %i cm", berat, tinggi); // mencetak ke layar
+
+> Aturan Penamaan Variabel dalam Bahasa C
+- Nama variabel tidak boleh didahului dengan simbol/angka
+- Nama variabel tidak boleh menggunakan kata kunci yang sudah ada pada bahasa C (if, int, void, dll)
+- Huruf besar dan kecil berbeda
+- TIdak boleh menggunakan spasi dalam penulisan nama variabel
+
+### Bahasa  PHP
+formatnya $namaVariabel
+
+$nama_depan
+$umur
+$alamat
+
+$nama = "Agus";
+%umur = 20;
+
+echo $nama; // mencatak nilai yang adal di dalam variabel nama
+
+$x = false; // variabel x bernilai boolean
+// pada bahasa PHP tidak perlu didefinisikan tipe datanya
+
+> Aturannya kurang lebih sama seperti bahasa C
+
+## Tipe Data
+Tipe Data adalah jenis nilai yang akan disimpan ke dalam variabel. Setiap nilai yang digunakan dalam pemrograman memiliki tipe data tertentu yang menentukan jenis operasi yang dapat dilakukan terhadap nilai tersebut.
+
+### Jenis Tipe Data
+
+1. Tipe Data Dasar/Primitive
+Adalah tipe data yang disediakan oleh bahasa pemrograman untuk merepresentasikan nilai dasar atau sederhana, seperti bilangan bulat, bilangan desimal, karakter, atau nilai kebenaran (boolean). Tipe data dasar ini merupakan fondasi dari tipe data yang lebih kompleks atau tipe data struktural dalam bahasa pemrograman. Mereka digunakan untuk mendefinisikan variabel dan menyimpan nilai dasar. contoh : int(integer{bilangan bulat}), float (bilangan pecahan), char (karakter{a,b,c}), string (kumpulan karakter/kalimat{halo, apa kabar ?}), boolean (nilai kebenaran true/false).
+
+2. Tipe Data Bentukan / Majemuk
+Adalah tipe data yang digunakan untuk mengelompokkan beberapa nilai dasar/tipe data dasar ke dalam satu unit yang lebih besar. Tipe data ini memungkinkan untuk membuat struktur data yang kompleks dan beragam yang mencakup berbagai jenis data.
+
+contohnya adalah array, tipe data yang didalamnya kita bisa menyimpan banyak nilai  sekaligus. urutan masing masing data/nilai dalam array dinamakan indeks
+
+array dalam bahasa C:
+int angka [] = {1, 2, 3, 4, 5};
+
+array dalam bahasa PHP :
+
+$hewan ["kucing", "kambing", "sapi"];
+
+array dalam bahasa C isinya haru nilai dengan tipe data yang sama, kalau di PHP boleh berbeda. 
+
