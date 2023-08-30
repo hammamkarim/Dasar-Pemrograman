@@ -1,0 +1,19 @@
+# Control FLow atau alur kendali (Loop  atau Pengulangan)
+
+Secara umum baris kode yang telah dibuat pada sebuah program dibaca dari baris yang paling atas sampai ke yang baris paling bawah. Dengan menggunakan control flow atau yang biasa disebut juga alur kendali proses pembacaan alut kode yang telah dibuat agar tidak selalu dijalankan scara berurutan dari atas ke bawah. Terdapa 2 jenis alur kendali yaitu loop / pegulangan dan conditional / percabangan.
+
+- loop
+Adalah proses yang dilakukan secara berulang ulang, loop berguna ketika ingin membuat sebuah perintah yang perlu dijalankan secara berulang ulang, hal ini sangan bermanfaat karena kita tidak perlu menulis sejumlah sintaks secara berulang ulang. Looping perlu diterapkan dalam oemrograman karena loop bisa meningkatkan efisiensi dalam program yang dibuat karena baris program lebih sedikit
+
+- cara menggunakan loop dalam program
+
+> menggunakan for
+IMG
+IMG OUTPUT
+
+program tersebut adalah program untuk mencetak hello world sebanyak 10 kali. (!perlu liat vidio untuk pembahasan codenya!)
+
+> while
+sebuah loop yang digunakan ketika kita telah menetapkan stop conditionnya. Kode yang sama akan terus dijalankan sampai stop condition tercapai. Stop condition akan di cek sebelum melakukan proses loop.
+
+IMG
