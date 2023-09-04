@@ -1,0 +1,33 @@
+# Teknik Debugging Pada Pemrograman
+***
+
+## Apa itu Bug ?
+Bug dalam konteks pemrograman adalah sebuah kerusakan teknis yang membuat aplikasi tidak berfungsi sebagaimana mestinya. Memahami dan memecahkan bug adalah sebagian dari proses pengembangan perangkat lunak.
+
+## Cara meminimalisir Munculnya Bug
+
+### 1. Membangun Alur Komunikasi yang Baik Antar Tim
+### 2. Melakukan Uji Coba / Testing 
+- Alpha Testing : Uji coba fungsionalitas ditahap awal.
+- Beta Testing : Uji coba untuk memastikan kesiapan software sebelum dipasarkan secara umum. 
+### 3. Bug Hunter 
+Merupakan user dari pihak lain yang memberi perspektif baru terhadap sofware yang telah dibuat.
+### 4. Metodolgi Pengembangan Sofwar Agile
+Teknik pengelolaan proyek yang mengutamakan sistem pengembangan terus menerus yang mana sistem dikembangkan secara berfase dengan tipa fase memiliki tujuan yang berbeda. 
+### 5. Memanfaatkan Platform Kolaborasi
+Memanfaatkan Platform Kolaborasi untuk meningkatkan kualitas komunikasi (menggunakan version control system).
+
+## Debugging
+Debugging adalah sebuah proses untuk mengidentifikasi, menghapus, dan memperbaiki bug yang ada. Debugging dapat dibagi menjadi 2 jenis yaitu debugging manual dan debugging dengan code editor.
+
+### Debugging Manual
+Proses penyelesaian bug yang dilakukan secara manual yang dilakukan dengan cara memahami program dan penyebab kesalahannya. Adapun tahapnya adalah : Melakukan identifikasi error, Menemukan sumber bug, menganalisis bug, membuktikan hasil analisis, memperbaiki bug.
+
+### Debugging Dengan Code Editor
+Penyelesaian bug dilakukan dengan bantuan debugging tools, adapun contoh toolnya adalah : GBD Tools, DDD Tools, Eclipse, dll.
+
+
+
+
+
+
